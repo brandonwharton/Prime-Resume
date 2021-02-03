@@ -4,6 +4,24 @@ body {
   margin: 5% 15%
 }
 
+p {
+  font-style: oblique;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  border-bottom: 1px solid #111111;
+}
+
+h4 {
+  border-bottom: 1px solid #111111;
+}
+
+img {
+  max-width: 35%;
+  height: auto;
+}
+
 .exp-header{
   text-align: center;
   border-top: 1px solid #111111;
